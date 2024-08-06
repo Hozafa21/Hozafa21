@@ -20,7 +20,7 @@ I'm a passionate software developer with a Bachelor's degree in Software Enginee
 
 ### Let's Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/hozafa-ali-9a3831224/))
+- [LinkedIn](https:/www.linkedin.com/in/hozafa-ali-9a3831224)
 - [Email](khandrago03@gmail.com)
 - [Github](https://github.com/Hozafa21)
 
