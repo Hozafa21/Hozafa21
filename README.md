@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Hozafa Ali]! 👋
+# Hi there, I'm Muhammad Hozafa Ali! 👋
 
 ## About Me
 
